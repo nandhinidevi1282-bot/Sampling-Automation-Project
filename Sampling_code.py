@@ -33,7 +33,7 @@ def load_data(file):
         st.info("Loading Process Completed")      
 
 
-st.title("Sampling Techniques Automation")
+st.title("Sampling Automation")
 
 menu = st.sidebar.selectbox(
     "Select Menu",
